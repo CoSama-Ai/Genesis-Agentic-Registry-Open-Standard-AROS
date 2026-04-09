@@ -24,36 +24,3 @@ CRITICAL CONSTRAINTS:
 
 
 Keep under 500 words. Write for investors who understand platform economics but not AI technicalities.
-
----
-
-AI Prompt: Summarize the Genesis Vision (From Local Folder Docs)
-
-You are reviewing a local documentation folder for Genesis Hub + AROS.
-
-Primary files to use:
-- GENESIS_VISION_2026.md
-- GENESIS_ULTIMATE_GUIDE.md
-- GENESIS_DEVELOPER_ECOSYSTEM.md
-- GENESIS_TECHNICAL_REFERENCE.md
-- GENESIS_USE_CASES.md
-- GENESIS_TRANSACTION_MECHANICS.md
-
-Task:
-- Summarize the Genesis vision in a way a non-technical executive can understand.
-- Explain what Genesis is, what problem it solves, why AROS identity matters, and why Governance Hubs are critical.
-- Include how Genesis Hub sits between the developer/user and AI systems to verify agents, monitor activity, enforce compliance, and track token usage/spend by user, agent, team, and department.
-- Cover scale implications for enterprise, healthcare (HIPAA), financial services, government, education, and family/minor safety controls.
-
-Output format:
-1. One-paragraph executive summary (4-6 sentences)
-2. "Core Thesis" (3-5 bullet points)
-3. "How It Works" (5-7 bullet points)
-4. "Why It Matters at Scale" (5-8 bullet points)
-5. "Risks / Open Questions" (3-5 bullet points)
-6. "Bottom Line" (3 bullet points)
-
-Constraints:
-- Keep it under 700 words
-- Plain English, no jargon unless defined in one line
-- Do not overhype; separate current capabilities from long-term vision
