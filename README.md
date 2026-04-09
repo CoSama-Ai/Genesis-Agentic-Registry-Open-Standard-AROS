@@ -2,6 +2,8 @@
 
 This repository contains the core architecture, standards, and vision docs for the Genesis ecosystem: an infrastructure layer for building, verifying, governing, and monetizing AI agents.
 
+Official site: [genesis.cosama.co](https://genesis.cosama.co)
+
 ## What Genesis Provides
 
 Genesis is positioned as infrastructure for the agent economy:
