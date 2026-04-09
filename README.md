@@ -4,6 +4,9 @@ This repository contains the core architecture, standards, and vision docs for t
 
 Official site: [genesis.cosama.co](https://genesis.cosama.co)
 
+AI prompt pack: [ai_prompt review.md](./ai_prompt%20review.md)  
+A ready-to-use prompt set for investor analysis and executive summaries of the Genesis vision from the docs in this repository.
+
 ## What Genesis Provides
 
 Genesis is positioned as infrastructure for the agent economy:
